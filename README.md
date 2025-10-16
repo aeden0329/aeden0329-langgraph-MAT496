@@ -1,5 +1,5 @@
 # MODULE 1:
-    Lesson 1:
+    Lesson 1(Motivation):
         LangGraph is a stateful, orchestration framework that brings added control to agent workflows and is specifically designed with streaming workflows in mind
     Lesson 2:
         we build a simple graph consisting of three nodes
